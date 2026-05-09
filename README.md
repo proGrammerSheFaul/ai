@@ -1,0 +1,2 @@
+# ai
+simple ai webpage.
